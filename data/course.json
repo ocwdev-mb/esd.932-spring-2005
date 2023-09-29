@@ -1,0 +1,41 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "88010d84-b9d2-4c5f-be55-9da1de56b9ef",
+  "instructors": {
+    "content": [
+      "f51fc489-e59a-38c5-7f93-1504fbb1076f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "333e3f76-7e19-4aa7-ed7d-4fd384be4814",
+    "website": "esd-932-technology-policy-organizations-spring-2005"
+  },
+  "course_title": "Technology Policy Organizations",
+  "course_description": "Technology Policy Organizations and its sequel, ESD.933, Technology Policy Negotiations and Dispute Resolution, form a sequence on Organizational Processes in Technology Policy. This course features an overall framework for understanding the increasingly networked, flat, flexible and diverse nature of organizations, as well as a close look at the many relevant types of organizations, including regulatory, entrepreneurial, multi-national, and non-governmental non-profit. Key organizational processes, including individual motivation, teamwork, and systems change are featured. The core assignment features a series of industry studies in which students conduct field interviews (in phone or in person) of key stakeholders on a pressing policy challenge in that industry and analyze the impact of organizational factors on policy success.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.932",
+  "course_image_thumbnail": {
+    "content": "b3886a1f-6704-4cd0-2c29-48907dcf98b5",
+    "website": "esd-932-technology-policy-organizations-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "e800c644-2f29-4ef6-b76d-e4ae452a296c",
+  "site_short_id": "esd.932-spring-2005",
+  "title": "Course Metadata"
+}
